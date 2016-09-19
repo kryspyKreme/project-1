@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Goodfeets.com </title>
+    </head>
+    <body>
+        <h1> Good Feets</h1>
+        <p>SO many good feets to choose from ranging from skethcers to J's, courtesy of Albert and Justin</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Motionplusredblackgrey.jpg">
+        <img src="http://images.solecollector.com/complex/image/upload/nsike1donc34pcotld59.jpg">
+        
+        <ul>
+            <li> Sketchers</li>
+            <li> vans</li>
+            <li> addidas</li>
+            <li> Nike</li>
+            <li> Jordans</li>
+            <li> designer shoes</li>
+            <li> Timbs</li>
+        </ul>
+        <p>sponsered by our friends at <a href ="http://www.finishline.com/"> finishline</a>   </p>
+
+    </body>
+</html>
